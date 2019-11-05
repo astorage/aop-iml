@@ -7,16 +7,19 @@ AOP实现方式
 2、aspectj
   aspectj需要ajc编译器，aspectjtools.jar。
   依赖
-  <dependency>
-      <groupId>org.aspectj</groupId>
-      <artifactId>aspectjrt</artifactId>
-      <version>1.9.4</version>
-  </dependency>
+  
+    <dependency>
+        <groupId>org.aspectj</groupId>
+        <artifactId>aspectjrt</artifactId>
+        <version>1.9.4</version>
+    </dependency>
+  
 
 3、jdk-动态代理
 
 4、cglib-动态代理
    依赖
+   
     <dependency>
         <groupId>cglib</groupId>
         <artifactId>cglib</artifactId>
