@@ -1,8 +1,8 @@
 package com.java.staticporxy;
 
 
-import com.java.proxy.Font;
-import com.java.proxy.FontProvider;
+import com.java.function.Font;
+import com.java.function.FontProvider;
 
 public class Business {
 

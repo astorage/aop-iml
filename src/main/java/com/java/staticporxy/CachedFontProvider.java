@@ -3,9 +3,9 @@ package com.java.staticporxy;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.java.proxy.Font;
-import com.java.proxy.FontProvider;
-import com.java.proxy.FontProviderFromDisk;
+import com.java.function.Font;
+import com.java.function.FontProvider;
+import com.java.function.FontProviderFromDisk;
 
 /**
  * 给FontProvider的getFont添加缓存功能，用静态代理来实现

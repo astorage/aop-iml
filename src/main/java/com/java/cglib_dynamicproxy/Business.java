@@ -1,6 +1,6 @@
 package com.java.cglib_dynamicproxy;
 
-import com.java.proxy.FontProviderFromDisk;
+import com.java.function.FontProviderFromDisk;
 
 public class Business {
 

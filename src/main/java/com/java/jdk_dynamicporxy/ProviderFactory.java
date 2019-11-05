@@ -3,8 +3,8 @@ package com.java.jdk_dynamicporxy;
 
 import java.lang.reflect.Proxy;
 
-import com.java.proxy.FontProvider;
-import com.java.proxy.FontProviderFromDisk;
+import com.java.function.FontProvider;
+import com.java.function.FontProviderFromDisk;
 
 public class ProviderFactory {
 

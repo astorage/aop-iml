@@ -1,4 +1,4 @@
-package com.java.proxy;
+package com.java.function;
 
 import lombok.Data;
 

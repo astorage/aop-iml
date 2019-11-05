@@ -1,6 +1,6 @@
 package com.java.staticporxy;
 
-import com.java.proxy.FontProvider;
+import com.java.function.FontProvider;
 
 /**
  */

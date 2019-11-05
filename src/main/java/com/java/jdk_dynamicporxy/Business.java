@@ -1,7 +1,7 @@
 package com.java.jdk_dynamicporxy;
 
-import com.java.proxy.Font;
-import com.java.proxy.FontProvider;
+import com.java.function.Font;
+import com.java.function.FontProvider;
 
 public class Business {
 
